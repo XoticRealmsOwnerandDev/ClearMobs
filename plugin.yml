@@ -1,7 +1,7 @@
 name: LostHunter
 author: "LostTeam"
 version: 1.1.0
-api: [2.0.0, 1.13.1]
+api: [3.0.0]
 main: LostTeam\LostHunter
 description: "Hunt the entities in your world until their all extinct!"
 commands:
